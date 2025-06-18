@@ -35,7 +35,7 @@ output : <img width="960" alt="voicebotoutput" src="https://github.com/user-atta
 
 
 ## 📁 Folder Structure
-
+``` bash
 voicebot-node/
 ├── public/
 │ ├── index.html
@@ -43,8 +43,9 @@ voicebot-node/
 │ └── script.js
 ├── server.js
 ├── .env (not committed)
-├── package.json
+|── package.json
 └── README.md
+```
 
 perl
 Copy
